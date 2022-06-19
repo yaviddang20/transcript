@@ -1,0 +1,15 @@
+{
+  "name": "transcript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Yang",
+  "license": "ISC",
+  "dependencies": {
+    "vosk": "^0.3.39"
+  }
+}
